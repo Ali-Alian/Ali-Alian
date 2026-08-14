@@ -1,26 +1,26 @@
-<h1 align="center">Hi, I'm [YOUR NAME]</h1>
+<h1 align="center">Hi, I'm Ali</h1>
 
 <p align="center">
-  Founder of <b>[COMPANY NAME]</b> — we build software, AI and web products.
+  Founder of <b>Achomi tech</b> — we build software, AI and web products.
 </p>
 
 <p align="center">
-  <a href="https://[YOUR-SITE].com">Website</a> &nbsp;•&nbsp;
-  <a href="mailto:[YOU@YOUR-SITE].com">Email</a> &nbsp;•&nbsp;
-  <a href="https://linkedin.com/in/[YOUR-HANDLE]">LinkedIn</a>
+  <a href="https://achomi.net">Website</a> &nbsp;•&nbsp;
+  <a href="mailto:team@achomi.net">Email</a> &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/ali-alian/">LinkedIn</a>
 </p>
 
 ---
 
 ### About
 
-Full-stack developer and founder of **[COMPANY NAME]**, a studio building
+Full-stack developer and founder of **Achomi Tech**, a studio building
 software, AI and web products end to end — from the first line of the API
 to the last pixel of the front end.
 
 - Front end, back end, database and deployment — I work across the whole stack
 - Currently focused on shipping AI features into real, production applications
-- Open to new client work and collaborations — **[get in touch]("mailto:[YOU@YOUR-SITE].com")**
+- Open to new client work and collaborations — **[get in touch]("mailto:[team@achomi.net")**
 
 ### Tech stack
 
